@@ -1,6 +1,9 @@
 ## welcome to learn matplotlib
 
-### the libraries that this repository uses are
+This is the link to my notes: <a  href="https://geode-dimple-199.notion.site/Matplotlib-62ce032827794d359088c20ddfcbc236"> 🧾 Note</a>
+
+
+#### The libraries that this repository uses are
 - matplotlib
 - numpy
 - pandas
